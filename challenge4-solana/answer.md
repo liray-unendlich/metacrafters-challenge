@@ -1,0 +1,5 @@
+- Simpler if the contract is break (simply XOR the receive)
+- Sends the transaction directly to the RPC server
+- Difference between using SDK or RPC API
+- With SDK, you can do it faster because you don't use a server, but you have to do the calculations yourself (transaction data and signature)
+- With a server, you can send and create transactions even with a more lightweight client.
